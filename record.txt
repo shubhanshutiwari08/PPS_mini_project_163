@@ -1,0 +1,15 @@
+Employee Name 1:Rajat
+Employee Id : 143
+Date of Birth : 9 / 8 / 1976
+Employee Salary :24500 
+
+Employee Name 2:Mithilesh
+Employee Id : 272
+Date of Birth : 12 / 3 / 1978
+Employee Salary :40000 
+
+Employee Name 3:Ramesh
+Employee Id : 345
+Date of Birth : 5 / 7 / 1990
+Employee Salary :42000 
+
